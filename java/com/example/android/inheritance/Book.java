@@ -3,7 +3,6 @@ package com.example.android.inheritance;
 import android.util.Log;
 //discreptions are clea
 public class Book {
-    int test;
     String author;
     int numberOfBooks;
 
